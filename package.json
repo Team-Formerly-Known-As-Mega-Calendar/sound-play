@@ -1,7 +1,7 @@
 {
-  "name": "sound-play",
-  "version": "1.0.5",
-  "description": "An sound player for NodeJS.",
+  "name": "sound-play-terminus",
+  "version": "1.0.0",
+  "description": "A sound player for NodeJS.",
   "main": "build/main.js",
   "scripts": {
     "build": "webpack --config webpack.config.js"
